@@ -1,5 +1,4 @@
 # hexo-helper-github-issues
-<<<<<<< HEAD
 
 ```sh
 npm i -S jpazureid/hexo-helper-github-issues
