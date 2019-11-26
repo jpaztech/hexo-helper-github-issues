@@ -1,7 +1,7 @@
 # hexo-helper-github-issues
 
 ```sh
-npm i -S jpaztechhexo-helper-github-issues
+npm i -S jpaztech/hexo-helper-github-issues
 ```
 
 ## Usage
